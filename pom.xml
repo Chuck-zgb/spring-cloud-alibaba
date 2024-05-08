@@ -27,6 +27,10 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+    <modules>
+        <module>spring-cloud-alibaba-starters</module>
+        <module>spring-cloud-alibaba-examples</module>
+    </modules>
 
     <scm>
         <url>https://github.com/alibaba/spring-cloud-alibaba</url>
